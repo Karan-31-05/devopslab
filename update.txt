@@ -1,1 +1,2 @@
 First line in update.txt
+Second line added from second-branch
